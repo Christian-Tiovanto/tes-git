@@ -1,1 +1,2 @@
 ini di feat-b.txt
+ini ubah yang di file b
